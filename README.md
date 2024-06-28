@@ -1,6 +1,6 @@
 # 内蒙古农业大学课程攻略共享计划
 
-![](https://raw.githubusercontent.com/IhaveBB/imau-course/03081df29b284c07a3ab5f54255e01fedc2b5aca/static/logo.png)
+![](https://github.com/IhaveBB/imau-course/blob/main/static/logo.png?raw=true)
 ## 前言
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
