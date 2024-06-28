@@ -84,7 +84,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 如果你认为本仓库的一些文件侵犯了您的权益，请 [向我们发送邮件](mailto:ihavebb@outlook.com) 。我们将会从仓库中彻底清除这些文件。
 
 ## 许可
-本README来自浙江大学共享库!(https://github.com/QSCTech/zju-icicles)[]
+本README来自浙江大学共享库![](https://github.com/QSCTech/zju-icicles)
 由贡献者编写部分的许可如下：
 
 [CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
